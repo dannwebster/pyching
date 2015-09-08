@@ -1,0 +1,64 @@
+1,Creative Power,||||||,1,2,4,8,16,32,63,0,S,Heaven,Heaven,|||,|||,||||||
+2,Receptive,::::::,0,0,0,0,0,0,0,5.625,,Earth,Earth,¦¦¦,¦¦¦,¦¦¦¦¦¦
+3,Difficult Beginnings,:|:::|,0,2,0,0,0,32,34,11.25,,Moon and Water,Thunder,¦|¦,¦¦|,¦|¦¦¦|
+4,Inexperience,|:::|:,1,0,0,0,16,0,17,16.875,,Mountain,Moon and Water,|¦¦,¦|¦,|¦¦¦|¦
+5,Calculated Waiting,:|:|||,0,2,0,8,16,32,58,22.5,,Moon and Water,Heaven,¦|¦,|||,¦|¦|||
+6,Conflict,|||:|:,1,2,4,0,16,0,23,28.125,,Heaven,Moon and Water,|||,¦|¦,|||¦|¦
+7,Collective Force,::::|:,0,0,0,0,16,0,16,33.75,,Earth,Moon and Water,¦¦¦,¦|¦,¦¦¦¦|¦
+8,Unity,:|::::,0,2,0,0,0,0,2,39.375,,Moon and Water,Earth,¦|¦,¦¦¦,¦|¦¦¦¦
+9,Restrained,||:|||,1,2,0,8,16,32,59,45,SW,Wind,Heaven,||¦,|||,||¦|||
+10,Conduct,|||:||,1,2,4,0,16,32,55,50.625,,Heaven,Pond,|||,¦||,|||¦||
+11,Peace,:::|||,0,0,0,8,16,32,56,56.25,,Earth,Heaven,¦¦¦,|||,¦¦¦|||
+12,Stagnation,|||:::,1,2,4,0,0,0,7,61.875,,Heaven,Earth,|||,¦¦¦,|||¦¦¦
+13,Community,||||:|,1,2,4,8,0,32,47,67.5,,Heaven,Sun and Fire,|||,|¦|,||||¦|
+14,Sovreignty,|:||||,1,0,4,8,16,32,61,73.125,,Sun and Fire,Heaven,|¦|,|||,|¦||||
+15,Moderation,:::|::,0,0,0,8,0,0,8,78.75,,Earth,Mountain,¦¦¦,|¦¦,¦¦¦|¦¦
+16,Harmonize,::|:::,0,0,4,0,0,0,4,84.375,,Thunder,Earth,¦¦|,¦¦¦,¦¦|¦¦¦
+17,Adopting,:||::|,0,2,4,0,0,32,38,90,W,Pond,Thunder,¦||,¦¦|,¦||¦¦|
+18,Repair,|::||:,1,0,0,8,16,0,25,95.625,,Mountain,Wind,|¦¦,||¦,|¦¦||¦
+19,Promotion,::::||,0,0,0,0,16,32,48,101.25,,Earth,Pond,¦¦¦,¦||,¦¦¦¦||
+20,Contemplating,||::::,1,2,0,0,0,0,3,106.875,,Wind,Earth,||¦,¦¦¦,||¦¦¦¦
+21,Reform,|:|::|,1,0,4,0,0,32,37,112.5,,Sun and Fire,Thunder,|¦|,¦¦|,|¦|¦¦|
+22,Grace,|::|:|,1,0,0,8,0,32,41,118.125,,Mountain,Sun and Fire,|¦¦,|¦|,|¦¦|¦|
+23,Deterioration,|:::::,1,0,0,0,0,0,1,123.75,,Mountain,Earth,|¦¦,¦¦¦,|¦¦¦¦¦
+24,Repeating,:::::|,0,0,0,0,0,32,32,129.375,,Earth,Thunder,¦¦¦,¦¦|,¦¦¦¦¦|
+25,Innocence,|||::|,1,2,4,0,0,32,39,135,NW,Heaven,Thunder,|||,¦¦|,|||¦¦|
+26,Potential Energy,|::|||,1,0,0,8,16,32,57,140.625,,Mountain,Heaven,|¦¦,|||,|¦¦|||
+27,Nourishing,|::::|,1,0,0,0,0,32,33,146.25,,Mountain,Thunder,|¦¦,¦¦|,|¦¦¦¦|
+28,Critical Mass,:||||:,0,2,4,8,16,0,30,151.875,,Pond,Wind,¦||,||¦,¦||||¦
+29,Danger,:|::|:,0,2,0,0,16,0,18,157.5,,Moon and Water,Moon and Water,¦|¦,¦|¦,¦|¦¦|¦
+30,Synergy,|:||:|,1,0,4,8,0,32,45,163.125,,Sun and Fire,Sun and Fire,|¦|,|¦|,|¦||¦|
+31,Attraction,:|||::,0,2,4,8,0,0,14,168.75,,Pond,Mountain,¦||,|¦¦,¦|||¦¦
+32,Continuing,::|||:,0,0,4,8,16,0,28,174.375,,Thunder,Wind,¦¦|,||¦,¦¦|||¦
+33,Retreat,||||::,0,0,4,8,16,32,60,180,N,Heaven,Mountain,|||,|¦¦,||||¦¦
+34,Great Power,::||||,0,0,4,8,16,32,60,185.625,,Thunder,Heaven,¦¦|,|||,¦¦||||
+35,Progress,|:|:::,1,0,4,0,0,0,5,191.25,,Sun and Fire,Earth,|¦|,¦¦¦,|¦|¦¦¦
+36,Censorship,:::|:|,0,0,0,8,0,32,40,196.875,,Earth,Sun and Fire,¦¦¦,|¦|,¦¦¦|¦|
+37,Family,||:|:|,1,2,0,8,0,32,43,202.5,,Wind,Sun and Fire,||¦,|¦|,||¦|¦|
+38,Contradiction,|:|:||,1,0,4,0,16,32,53,208.125,,Sun and Fire,Pond,|¦|,¦||,|¦|¦||
+39,Obstacles,:|:|::,0,2,0,8,0,0,10,213.75,,Moon and Water,Mountain,¦|¦,|¦¦,¦|¦|¦¦
+40,Liberation,::|:|:,0,0,4,0,16,0,20,219.375,,Thunder,Moon and Water,¦¦|,¦|¦,¦¦|¦|¦
+41,Decline,|:::||,1,0,0,0,16,32,49,225,NE,Mountain,Pond,|¦¦,¦||,|¦¦¦||
+42,Benefit,||:::|,1,2,0,0,0,32,35,230.625,,Wind,Thunder,||¦,¦¦|,||¦¦¦|
+43,Resolution,:|||||,0,2,4,8,16,32,62,236.25,,Pond,Heaven,¦||,|||,¦|||||
+44,Temptation,|||||:,1,2,4,8,16,0,31,241.875,,Heaven,Wind,|||,||¦,|||||¦
+45,Assembling,:||:::,0,2,4,0,0,0,6,247.5,,Pond,Earth,¦||,¦¦¦,¦||¦¦¦
+46,Advancement,:::||:,0,0,0,8,16,0,24,253.125,,Earth,Wind,¦¦¦,||¦,¦¦¦||¦
+47,Adversity,:||:|:,0,2,4,0,16,0,22,258.75,,Pond,Moon and Water,¦||,¦|¦,¦||¦|¦
+48,The Source,:|:||:,0,2,0,8,16,0,26,264.375,,Moon and Water,Wind,¦|¦,||¦,¦|¦||¦
+49,Changing,:|||:|,0,2,4,8,0,32,46,270,E,Pond,Sun and Fire,¦||,|¦|,¦|||¦|
+50,Cosmic Order,|:|||:,1,0,4,8,16,0,29,275.625,,Sun and Fire,Wind,|¦|,||¦,|¦|||¦
+51,Shocking,::|::|,0,0,4,0,0,32,36,281.25,,Thunder,Thunder,¦¦|,¦¦|,¦¦|¦¦|
+52,Meditation,|::|::,1,0,0,8,0,0,9,286.875,,Mountain,Mountain,|¦¦,|¦¦,|¦¦|¦¦
+53,Developing,||:|::,1,2,0,8,0,0,11,292.5,,Wind,Mountain,||¦,|¦¦,||¦|¦¦
+54,Subordinate,::|:||,0,0,4,0,16,32,52,298.125,,Thunder,Pond,¦¦|,¦||,¦¦|¦||
+55,Abundance,::||:|,0,0,4,8,0,32,44,303.75,,Thunder,Sun and Fire,¦¦|,|¦|,¦¦||¦|
+56,Traveling,|:||::,1,0,4,8,0,0,13,309.375,,Sun and Fire,Mountain,|¦|,|¦¦,|¦||¦¦
+57,The Gentle,||:||:,1,2,0,8,16,0,27,315,SE,Wind,Wind,||¦,||¦,||¦||¦
+58,Encouraging,:||:||,0,2,4,0,16,32,54,320.625,,Pond,Pond,¦||,¦||,¦||¦||
+59,Reuninting,||::|:,1,2,0,0,16,0,19,326.25,,Wind,Moon and Water,||¦,¦|¦,||¦¦|¦
+60,Limitations,:|::||,0,2,0,0,16,32,50,331.875,,Moon and Water,Pond,¦|¦,¦||,¦|¦¦||
+61,Insight,||::||,1,2,0,0,16,32,51,337.5,,Wind,Pond,||¦,¦||,||¦¦||
+62,Conscientiousness,::||::,0,0,4,8,0,0,12,343.125,,Thunder,Mountain,¦¦|,|¦¦,¦¦||¦¦
+63,After the End,:|:|:|,0,2,0,8,0,32,42,348.75,,Moon and Water,Sun and Fire,¦|¦,|¦|,¦|¦|¦|
+64,Before The End,|:|:|:,1,0,4,0,16,0,21,354.375,,Sun and Fire,Moon and Water,|¦|,¦|¦,|¦|¦|¦
